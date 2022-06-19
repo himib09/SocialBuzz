@@ -12,4 +12,6 @@ Social Buzz is a media company who want:
 
 In this project, I have done data merging and data cleaning in python as well as data visulaisation with dashboard in Tableau. 
 
-#Dashboard:
+# Dashboard:
+
+![Dashboard 1](https://user-images.githubusercontent.com/67017362/174493415-750e9c2a-71ae-40ce-a297-d2c80b87af23.png)
