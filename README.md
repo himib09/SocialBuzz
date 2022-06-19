@@ -1,14 +1,15 @@
-# SocialBuzz
-# Accenture-Data-Analytics-Virtual-Programme
+# SocialBuzz - Accenture-Data-Analytics-Virtual-Programme
 
-## Background
+
+# Background
 
 Social Buzz is a media company who want:
 
-## Merging of sample data set tables
-An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
-Task
+* Merging of sample data set tables
+* An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
 
-In this project, I have done data merging and data cleaning in python as well as data visulaisation with dashboard in Tableau.
+# Task
+
+In this project, I have done data merging and data cleaning in python as well as data visulaisation with dashboard in Tableau. 
 
 #Dashboard:
